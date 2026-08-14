@@ -31,3 +31,4 @@ Connect:
 Forex content should include appropriate risk disclosures and should not be presented as guaranteed financial returns.
 # bravepay
 # bravepay
+# bravepay2
